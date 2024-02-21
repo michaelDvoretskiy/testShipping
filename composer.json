@@ -1,0 +1,15 @@
+{
+    "name": "mdvor/test-one-nofw",
+    "autoload": {
+        "psr-4": {
+            "Mdvor\\TestOneNofw\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "michaelDvoretskiy",
+            "email": "m.dvoretskiy@gmail.com"
+        }
+    ],
+    "require": {}
+}
